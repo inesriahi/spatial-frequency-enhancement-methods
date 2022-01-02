@@ -19,5 +19,5 @@ The allowed enhancement methods are:
 
 ## Screenshots
 
-**Histogram Equalization:**<br>
-![Histogram Equalization](screenshots/1.png)
+![1](1.png)
+![2](2.png)
